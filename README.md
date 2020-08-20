@@ -7,7 +7,7 @@ Depois de gostar tanto do conteúdo proposto (e ter um bom desempenho) fui convi
 pela instituição onde representei essa unidade no campeonato estadual e obtive primeiro lugar :) Depois treinei por mais um ano, e 
 participei da fase nacional da mesma competição obtendo o terceiro lugar :p
 
-Trabalhei no setor público e privado como desenvolvedor Java, em diversos setores e sempre desenvolvendo novas habilidades tanto 
+Trabalhei no setor público e privado como desenvolvedor Java, em diversas áreas e sempre desenvolvendo novas habilidades tanto 
 negociais como técnica. Atualmente sigo atuando na Defensoria Pública de Minas Gerais atuando como lider técnico de uma equipe 
 espetacular.   
 
