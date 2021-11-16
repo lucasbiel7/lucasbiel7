@@ -11,6 +11,9 @@ Trabalhei no setor público e privado como desenvolvedor Java, em diversas área
 negociais como técnica. Atualmente sigo atuando na Defensoria Pública de Minas Gerais atuando como lider técnico de uma equipe 
 espetacular.   
 
+![Meu status](https://github-readme-stats.vercel.app/api?username=lucasbiel7&show_icons=true&theme=dark&custom_title=Minhas%20Contribuições)
+[![Linguagens utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbiel7&layout=compact&theme=dark&custom_title=Linguagens%20utilizadas)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias mais amadas <3
  - JSE
  - JPA
@@ -37,6 +40,9 @@ espetacular.
 - Python
 - PL/SQL
 - C#
+
+
+
 
 
 <!--
