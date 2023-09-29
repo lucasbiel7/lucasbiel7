@@ -7,9 +7,7 @@ Depois de gostar tanto do conteúdo proposto (e ter um bom desempenho) fui convi
 pela instituição onde representei essa unidade no campeonato estadual e obtive primeiro lugar :) Depois treinei por mais um ano, e 
 participei da fase nacional da mesma competição obtendo o terceiro lugar :p
 
-Trabalhei no setor público e privado como desenvolvedor Java, em diversas áreas e sempre desenvolvendo novas habilidades tanto 
-negociais como técnica. Atualmente sigo atuando na Defensoria Pública de Minas Gerais atuando como lider técnico de uma equipe 
-espetacular.   
+Trabalhei no setor público e privado como desenvolvedor Java, em diversas áreas e sempre desenvolvendo novas habilidades, negociais e técnicas. Atualmente trabalho no Banco Inter, na plataforma de e-commerce, na posição de especialista da equipe.
 
 ![Meu status](https://github-readme-stats.vercel.app/api?username=lucasbiel7&show_icons=true&theme=dark&custom_title=Minhas%20Contribuições)
 [![Linguagens utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbiel7&layout=compact&theme=dark&custom_title=Linguagens%20utilizadas)](https://github.com/anuraghazra/github-readme-stats)
