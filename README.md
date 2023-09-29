@@ -21,6 +21,7 @@ Trabalhei no setor público e privado como desenvolvedor Java, em diversas área
  - Angular
  - Flutter
  - JavaFX
+ - Micronaut
 ### Tecnologias que estou descobrindo :o
  - Redis
  - Cassandra
